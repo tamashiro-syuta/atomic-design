@@ -1,0 +1,6 @@
+.next
+.swc
+/node_modules
+
+jest.config.js
+jest.setup.js
